@@ -1,6 +1,4 @@
 
 
-console.log('Array');
-
 
 
